@@ -1,10 +1,8 @@
-# academic-project-page-template-vue
+# LS-Mixture
 
-![img](https://github.com/user-attachments/assets/0b6084a8-ad9c-4a1b-81b2-1f9591c7eabb)
+> **This project is under development.**
 
-> This project is in development, and welcome any suggestions.
-
-This Vue-based repository is developed for an academic paper page template. It enables researchers to promote papers conveniently and intuitively. 
+Paper: TODO
 
 Now it support:
   - Icons of paper logo, author and affiliation
