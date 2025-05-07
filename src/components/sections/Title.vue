@@ -80,13 +80,13 @@ const addresses = [
     address_flag: "3",
     name: "Zhongguancun Academy",
     icon: "./ZGCA.png",
-    homepage: "https://bjzgca.bjedu.cn/"
+    homepage: "http://bjzgca.edu.cn/"
   },
   {
     address_flag: "4",
     name: "Zhongguancun Institute of Artificial Intelligence",
     icon: "./ZGCA.png",
-    homepage: "https://bjzgca.bjedu.cn/"
+    homepage: "http://bjzgca.edu.cn/"
   },
 ]
 
