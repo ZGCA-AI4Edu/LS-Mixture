@@ -67,25 +67,25 @@ const addresses = [
   {
     address_flag: "1",
     name: "Harbin Institute of Technology",
-    icon: "/HIT.jpg",
+    icon: "./HIT.jpg",
     homepage: "https://www.hit.edu.cn/"
   },
   {
     address_flag: "2",
     name: "East China Normal University",
-    icon: "/ECNU.jpg",
+    icon: "./ECNU.jpg",
     homepage: "https://www.ecnu.edu.cn/"
   },
   {
     address_flag: "3",
     name: "Zhongguancun Academy",
-    icon: "/ZGCA.png",
+    icon: "./ZGCA.png",
     homepage: "https://bjzgca.bjedu.cn/"
   },
   {
     address_flag: "4",
     name: "Zhongguancun Institute of Artificial Intelligence",
-    icon: "/ZGCA.png",
+    icon: "./ZGCA.png",
     homepage: "https://bjzgca.bjedu.cn/"
   },
 ]
