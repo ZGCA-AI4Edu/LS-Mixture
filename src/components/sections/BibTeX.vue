@@ -3,11 +3,14 @@ export default {
   data() {
     return {
       bibtex: [
-        "@article{junyaohu2023template,",
-        "    title={Academic Project Page Template Vue},",
-        "    author={Hu, Junyao},",
-        "    journal={GitHub},",
-        "    year={2023}",
+        "@misc{LS-Mixture-SFT,",
+        "    title={Long-Short Chain-of-Thought Mixture Supervised Fine-Tuning Eliciting Efficient Reasoning in Large Language Models},",
+        "    author={Bin Yu and Hang Yuan and Yuliang Wei and Bailing Wang and Weizhen Qi and Kai Chen},",
+        "    year={2025},",
+        "    eprint={2505.03469},",
+        "    archivePrefix={arXiv},",
+        "    primaryClass={cs.CL},",
+        "    url={https://arxiv.org/abs/2505.03469}",
         "}",
       ],
     }
